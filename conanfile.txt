@@ -1,0 +1,8 @@
+[requires]
+nlohmann_json/3.12.0
+gtest/1.15.0
+raylib/5.5
+
+[generators]
+CMakeDeps
+CMakeToolchain
