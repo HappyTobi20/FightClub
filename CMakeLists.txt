@@ -32,7 +32,7 @@ add_subdirectory(Source/RaylibTetris)
 add_subdirectory(Source/ChuckNorrisJokes)
 add_subdirectory(Source/Utils)
 add_subdirectory(Source/FightClubGame)
-add_subdirectory(Source/DoodlejumpGame)
+add_subdirectory(Source/DoodleJumpGame)
 
 system_info()
 
